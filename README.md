@@ -1,6 +1,6 @@
 # Lazy_AF Workflow
 
-This workflow is currently designed to work with AlphaFold2_BATCH for high-throughput protein structure and complex prediction. I wanted to create an accessible way of taking genome fasta files from NCBI and quickly adding on a bait protein sequence to each coding sequence, perform large scale in silico pulldown predictions and create a table of results to analyse. This all happens through Google Dive and Colaboratory.
+This workflow is currently designed to work with [AlphaFold2_BATCH](https://colab.research.google.com/github/sokrypton/ColabFold/blob/v1.5.2/batch/AlphaFold2_batch.ipynb) for high-throughput protein structure and complex prediction. I wanted to create an accessible way of taking genome fasta files from [NCBI](https://www.ncbi.nlm.nih.gov/) and quickly adding on a bait protein sequence to each coding sequence, perform large scale in silico pulldown predictions and create a table of results to analyse. This all happens through Google Dive and Colaboratory.
 
 This workflow consist of two parts: 
 
