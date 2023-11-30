@@ -12,7 +12,7 @@ You then can direct [AlphaFold2_BATCH](https://colab.research.google.com/github/
 
 For details, refer to our manuscript: in prep
 
-N.B. I am wetlab scientist who has little experience in writing code. I am sure it can be streamlined and adapted for more than 2 protien interactions, or to accept fastas without [gene=] or [protein_id=] identifiers but currently I have not been able to achieve this smoothly.
+N.B. I am wetlab scientist who has little experience in writing code. I am sure it can be streamlined and adapted for more than 2 protein interactions, or to accept fastas without [gene=] or [protein_id=] identifiers but currently I have not been able to achieve this smoothly.
 
 Any issues, queries or comments please contact the corresponding author of the manuscript.
 
