@@ -6,7 +6,7 @@ This pipeline consist of three parts:
 
 [Part 1](https://colab.research.google.com/drive/1a5d7xraEK4Iv3Ecmmjb1opnU5jwXRW_a) produces individual fasta files for each coding sequence in the genome which have been modified to include the bait protein sequence as a second chain.
 
-Part 2: You then can direct [AlphaFold2_BATCH](https://github.com/sokrypton/ColabFold) to this same results folder to directly perform the modelling and predictions.
+[Part 2](https://github.com/sokrypton/ColabFold): You then can direct ColabFold_BATCH to this same results folder to directly perform the modelling and predictions.
 
 [Part 3](https://colab.research.google.com/drive/1j7WJLcUHTR8BrjkWDaU549rFk6X5Zu18) then takes the raw output from these predictions and copies the rank_001 JSON files into a new folder before extracting the pTM and ipTM scores, calculating a Ranking_confidence score and putting that all into a .csv table for analysis.
 
