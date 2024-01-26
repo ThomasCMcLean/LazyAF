@@ -8,13 +8,9 @@ This pipeline consist of three parts:
 
 [Part 2](https://github.com/sokrypton/ColabFold) uses ColabFold_BATCH to perform AlphaFold2-based model prediction on each protein-protein pair.
 
-[Part 3](https://colab.research.google.com/drive/1j7WJLcUHTR8BrjkWDaU549rFk6X5Zu18) then takes the raw output from these predictions and copies the rank_001 JSON files into a new folder before extracting the pTM and ipTM scores, calculating a Ranking_confidence score and putting that all into a .csv table for analysis.
+[Part 3](https://colab.research.google.com/drive/1j7WJLcUHTR8BrjkWDaU549rFk6X5Zu18) then takes the raw output from these predictions and copies the rank_001 JSON files into a new folder before extracting the pTM and ipTM scores, calculating a ranking_confidence score and putting that all into a .csv table for analysis.
 
-For details, refer to our manuscript: in prep
-
-N.B. I am wetlab scientist who has little experience in writing code. I am sure it can be streamlined and adapted for more than 2 protein interactions, or to accept fastas without [gene=] or [protein_id=] identifiers but currently I have not been able to achieve this smoothly.
-
-Any issues, queries or comments please contact the corresponding author of the manuscript.
+For further details, refer to our manuscript: in prep
 
 Thank you,
 Tom
