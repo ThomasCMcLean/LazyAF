@@ -13,4 +13,5 @@ This pipeline consist of three parts:
 For further details, refer to our manuscript: in prep
 
 Thank you,
-Tom McLean [@TomMcLean05](https://twitter.com/TomMcLean05)
+Tom McLean
+[@TomMcLean05](https://twitter.com/TomMcLean05)
