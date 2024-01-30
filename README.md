@@ -12,6 +12,9 @@ This pipeline consist of three parts:
 
 For further details, refer to our manuscript: in prep
 
-Thank you,
-Tom McLean
+Thank you,<br>
+Tom McLean <br>
 [@TomMcLean05](https://twitter.com/TomMcLean05)
+<br>
+<br>
+![LazyAF_fig1_cropped](https://github.com/ThomasCMcLean/LazyAF/assets/26911265/43e27e99-9687-4d87-89e8-fd0529314197)
