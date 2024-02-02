@@ -10,7 +10,7 @@ This pipeline consist of three parts:
 
 [Part 3](https://colab.research.google.com/drive/1j7WJLcUHTR8BrjkWDaU549rFk6X5Zu18) then takes the raw output from these predictions and copies the rank_001 JSON files into a new folder before extracting the pTM and ipTM scores, calculating a ranking_confidence score and putting that all into a .csv table for analysis.
 
-For further details, refer to our manuscript: in prep
+For further details, refer to our [manuscript](https://www.biorxiv.org/content/10.1101/2024.01.29.577767v1)
 
 Thank you,<br>
 Tom McLean <br>
